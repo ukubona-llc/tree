@@ -9,20 +9,20 @@ V. CANOPY                                    ◄── fruit forms here, then fa
 ├── 4. Generative
 └── 5. Embodiment / Alignment
         ▲                                 │
-        │  (growth, I → V)                │  (V → I′ transfer,
-        │                                 │   falling by gravity)
-IV. BRANCHES  (the -ean lenses)            │
-│                                          │  1. Somatic
-├── 1. BOLTZMANNEAN                        │  2. Memetic
-│   ├── i.   Physics                       │  3. Institutional
-│   ├── ii.  Models                        │  4. EQUILIBRIA
-│   ├── iii. Enterprises                   │     ├── a. Adversarial
-│   ├── iv.  Collisions → EQUILIBRIA       │     ├── b. Transactional
-│   │        ├── a. Adversarial            │     ├── c. Cooperative
-│   │        ├── b. Transactional          │     ├── d. Regulatory
-│   │        ├── c. Cooperative            │     └── e. Symbiotic
-│   │        ├── d. Regulatory             │  5. Gametic
-│   │        └── e. Symbiotic              │
+        │  (growth, I → V)                │  TRANSFER MECHANISMS NOW EXPLICIT
+        │                                 │  (V → I′, falling by gravity —
+IV. BRANCHES  (the -ean lenses)            │   no longer a placeholder slot)
+│                                          │
+├── 1. BOLTZMANNEAN                        │  1. Somatic
+│   ├── i.   Physics                       │  2. Memetic
+│   ├── ii.  Models                        │  3. Institutional
+│   ├── iii. Enterprises                   │  4. EQUILIBRIA
+│   ├── iv.  Collisions → EQUILIBRIA       │     ├── a. Adversarial
+│   │        ├── a. Adversarial            │     ├── b. Transactional
+│   │        ├── b. Transactional          │     ├── c. Cooperative
+│   │        ├── c. Cooperative            │     ├── d. Regulatory
+│   │        ├── d. Regulatory             │     └── e. Symbiotic
+│   │        └── e. Symbiotic              │  5. Gametic
 │   └── v.   Users                         │
 │        ├── a. Sovereign                  │
 │        ├── b. Kin-Network                │
