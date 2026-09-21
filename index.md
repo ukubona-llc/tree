@@ -2,7 +2,7 @@
 - A538.jsx / Macbeth
 - Scale-aware perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
 - [Dendrochronology](https://en.wikipedia.org/wiki/Dendrochronology)
-- ?
+- Leo XIV, Charles III, [Nyabongo I](https://lg.wikipedia.org/wiki/Edward_Rukidi_Nyabongo_I)
 
 ---
 
