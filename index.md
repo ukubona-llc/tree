@@ -95,8 +95,8 @@ III. STEM                                    │
         ▲                                    │
         │                                    │
 II. ROOTS                                    │
-├── 1. Observed (Unambiguosly Measured)      │
-├── 2. Expected (Concepts & Distincitons)    │
+├── 1. Observed (Unambiguously Measured)     │
+├── 2. Expected (Concepts & Distinctions)    │
 ├── 3. Mismatch (Admissible)                 │
 ├── 4. Hypotheses (Falsifiable)              │
 └── 5. Trial (& Error)                       │
