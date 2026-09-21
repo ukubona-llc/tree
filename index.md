@@ -84,7 +84,7 @@ I. SOIL  (= I′)  ◄───────────────────�
 ├── 2. Energy (eg Data Centers)
 ├── 3. Information (eg AI)
 ├── 4. Capital (eg Tokens)
-└── 5. [Society](https://www.youtube.com/watch?v=YM3YSTtGtV4) / Institutions (eg [Harmony](https://en.wikipedia.org/wiki/Harmony:_A_New_Way_of_Looking_at_Our_World))
+└── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World)
 ```
 
 
