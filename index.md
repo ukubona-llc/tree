@@ -39,7 +39,7 @@ IV. BRANCHES  (the -ean lenses)              │   no longer a placeholder slot)
 │   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Hormones
 │   ├── iii. Throughput-Fluency              │ Hippocampus              | Genetics
 │   ├── iv.  Output-Fluency                  │ PFC                      | Epigenetics
-│   └── v.   Agency                          │ Motor-Cortex             | Environments (Various Epochs)
+│   └── v.   Agency                          │ Motor-Cortex             | Milieu (Various Time Scales: Between & Within Person)
 │                                            │
 ├── 3. NIETZSCHEAN                           │
 │   ├── i.   Wavelength-Periodicity          │
