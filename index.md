@@ -2,6 +2,12 @@
 - A538.jsx / Macbeth
 - Scale-aware perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
 
+<iframe
+   src="https://www.youtube.com/embed/YM3YSTtGtV4"
+   width="75%"
+   height="500"
+>
+
 ```
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
