@@ -11,6 +11,16 @@
 >
 </iframe>
 
+```
+I. SOIL (= I′)
+
+Matter                         Silicon             +42%
+Energy                         Data Centers        +24%
+Network / Cloud                AI                  +11%
+Kapital                        Tokens               -3%
+Society / Institutions         Harmony             -59%
+```
+
 ---
 
 ```
