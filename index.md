@@ -80,11 +80,11 @@ II. ROOTS                                    │
         ▲                                    │
         │                                    ▼
 I. SOIL  (= I′)  ◄───────────────────────────┘   fruit lands, reabsorbed as soil
-├── 1. Energy
-├── 2. Matter
-├── 3. Information
-├── 4. Capital
-└── 5. Society / Institutions
+├── 1. Matter (eg Silicon)
+├── 2. Energy (eg Data Centers)
+├── 3. Information (eg AI)
+├── 4. Capital (eg Tokens)
+└── 5. [Society](https://www.youtube.com/watch?v=YM3YSTtGtV4) / Institutions (eg [Harmony](https://en.wikipedia.org/wiki/Harmony:_A_New_Way_of_Looking_at_Our_World))
 ```
 
 
