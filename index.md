@@ -29,7 +29,7 @@ Society / Institutions         Harmony             -59%
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
-V. CANOPY                                    ◄── fruit forms here, then falls
+V. CANOPY / DISSIPATIVE                      ◄── fruit forms here, then falls
 ├── 1. World (Agentive)
 ├── 2. Perception (Objective)
 ├── 3. Agentic (Errative)
@@ -38,7 +38,7 @@ V. CANOPY                                    ◄── fruit forms here, then fa
         ▲                                    │
         │  (growth, I → V = differentiation) │  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity = compression
-IV. BRANCHES  (the -ean lenses)              │   no longer a placeholder slot)
+IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │                                            │
 ├── 1. BOLTZMANNEAN                          │  1. Somatic
 │   ├── i.   Physics                         │  2. Memetic
@@ -86,7 +86,7 @@ IV. BRANCHES  (the -ean lenses)              │   no longer a placeholder slot)
     └── v.   OutPatient  (Months)            │
         ▲                                    │
         │                                    │
-III. STEM                                    │
+III. STEM / TRANSFORM                        │
 ├── 1. Dionysian  — Mechanisms & Experiential|
 ├── 2. Apollonian — Single-Agent Objective   │
 ├── 3. Soul       — Luck Masks Insufficiency │
@@ -94,15 +94,15 @@ III. STEM                                    │
 └── 5. Body       — Reassertion of Trajectory|
         ▲                                    │
         │                                    │
-II. ROOTS                                    │
+II. ROOTS / INPUT                            │
 ├── 1. Observed (Unambiguously Measured)     │
 ├── 2. Expected (Concepts & Distinctions)    │
 ├── 3. Mismatch (Admissible)                 │
 ├── 4. Hypotheses (Falsifiable)              │
 └── 5. Trial (& Error)                       │
-        ▲                                    │c
+        ▲                                    │
         │                                    ▼
-I. SOIL  (= I′)  ◄───────────────────────────┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
+I. SOIL (= I′) / LOW-ENTROPY ◄───────────────┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
 ├── 1. Matter (eg Silicon, 42%)
 ├── 2. Energy (eg Data Centers, 24%)
 ├── 3. Network / Cloud (eg AI, 11%)
