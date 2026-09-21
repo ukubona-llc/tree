@@ -1,6 +1,8 @@
 - [A537.jsx](https://j-digital-twin.onrender.com/) / Hamlet        
 - A538.jsx / Macbeth
 - Scale-aware perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
+- [Dendrochronology](https://en.wikipedia.org/wiki/Dendrochronology)
+- ?
 
 ---
 
