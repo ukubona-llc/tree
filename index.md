@@ -1,16 +1,17 @@
-[A537.jsx](https://j-digital-twin.onrender.com/) / Hamlet        
-A538.jsx / Macbeth
+- [A537.jsx](https://j-digital-twin.onrender.com/) / Hamlet        
+- A538.jsx / Macbeth
+- Scale-aware perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
 
 ```
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
 V. CANOPY                                    ◄── fruit forms here, then falls
-├── 1. World
-├── 2. Perception
-├── 3. Agentic
-├── 4. Generative
-└── 5. Embodiment / Alignment
+├── 1. World (Agentive)
+├── 2. Perception (Objective)
+├── 3. Agentic (Errative)
+├── 4. Generative (Interactive; Generative iii -> v & Degenerative iv -> v )
+└── 5. Embodiment / Alignment (Corrective)
         ▲                                    │
         │  (growth, I → V)                   │  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity —
@@ -34,11 +35,11 @@ IV. BRANCHES  (the -ean lenses)              │   no longer a placeholder slot)
 │        └── e. Trajectory-Planners          │
 │                                            │
 ├── 2. GRAYSIAN                              │
-│   ├── i.   Latency                         │
-│   ├── ii.  Input-Fluency                   │
-│   ├── iii. Throughput-Fluency              │
-│   ├── iv.  Output-Fluency                  │
-│   └── v.   Agency                          │
+│   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Neural Transmitters
+│   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Hormones
+│   ├── iii. Throughput-Fluency              │ Hippocampus              | Genetics
+│   ├── iv.  Output-Fluency                  │ PFC                      | Epigenetics
+│   └── v.   Agency                          │ Motor-Cortex             | Environments (Various Epochs)
 │                                            │
 ├── 3. NIETZSCHEAN                           │
 │   ├── i.   Wavelength-Periodicity          │
