@@ -85,12 +85,12 @@ II. ROOTS                                    │
 └── 5. Trial                                 │
         ▲                                    │
         │                                    ▼
-I. SOIL  (= I′)  ◄───────────────────────────┘   fruit lands, reabsorbed as soil
-├── 1. Matter (eg Silicon)
-├── 2. Energy (eg Data Centers)
-├── 3. Information (eg AI)
-├── 4. Capital (eg Tokens)
-└── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World)
+I. SOIL  (= I′)  ◄───────────────────────────┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
+├── 1. Matter (eg Silicon, 42%)
+├── 2. Energy (eg Data Centers, 24%)
+├── 3. Network / Cloud (eg AI, 11%)
+├── 4. Capital (eg Tokens, -3%)
+└── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World, -59%)
 ```
 
 
