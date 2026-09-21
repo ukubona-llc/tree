@@ -95,12 +95,12 @@ III. STEM                                    │
         ▲                                    │
         │                                    │
 II. ROOTS                                    │
-├── 1. Observed                              │
-├── 2. Expected                              │
-├── 3. Mismatch                              │
-├── 4. Hypotheses                            │
-└── 5. Trial                                 │
-        ▲                                    │
+├── 1. Observed (Unambiguosly Measured)      │
+├── 2. Expected (Concepts & Distincitons)    │
+├── 3. Mismatch (Admissible)                 │
+├── 4. Hypotheses (Falsifiable)              │
+└── 5. Trial (& Error)                       │
+        ▲                                    │c
         │                                    ▼
 I. SOIL  (= I′)  ◄───────────────────────────┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
 ├── 1. Matter (eg Silicon, 42%)
