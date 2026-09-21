@@ -13,8 +13,8 @@ V. CANOPY                                    ◄── fruit forms here, then fa
 ├── 4. Generative (Interactive; Generative iii -> v & Degenerative iv -> v )
 └── 5. Embodiment / Alignment (Corrective)
         ▲                                    │
-        │  (growth, I → V)                   │  TRANSFER MECHANISMS NOW EXPLICIT
-        │                                    │  (V → I′, falling by gravity —
+        │  (growth, I → V = differentiation) │  TRANSFER MECHANISMS NOW EXPLICIT
+        │                                    │  (V → I′, falling by gravity = compression
 IV. BRANCHES  (the -ean lenses)              │   no longer a placeholder slot)
 │                                            │
 ├── 1. BOLTZMANNEAN                          │  1. Somatic
@@ -25,7 +25,7 @@ IV. BRANCHES  (the -ean lenses)              │   no longer a placeholder slot)
 │   │        ├── a. Adversarial              │     ├── b. Transactional
 │   │        ├── b. Transactional            │     ├── c. Cooperative
 │   │        ├── c. Cooperative              │     ├── d. Regulatory
-│   │        ├── d. Regulatory               │      └── e. Symbiotic
+│   │        ├── d. Regulatory               │     └── e. Symbiotic
 │   │        └── e. Symbiotic                │   5. Gametic
 │   └── v.   Users                           │
 │        ├── a. Sovereign                    │
