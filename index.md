@@ -37,7 +37,7 @@ V. CANOPY / DISSIPATIVE                      ◄── fruit forms here, then fa
 ├── 1. World (Agentive)
 ├── 2. Perception (Objective)
 ├── 3. Agentic (Errative)
-├── 4. Generative (Interactive; Generative iii -> v & Degenerative iv -> v )
+├── 4. Interactive (Generative iii -> v vs. Degenerative iv -> v eg a Coen Brothers plot)
 └── 5. Embodiment / Alignment (Corrective)
         ▲                                    │
         │  (growth, I → V = differentiation) │  TRANSFER MECHANISMS NOW EXPLICIT
