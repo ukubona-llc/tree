@@ -3,7 +3,7 @@
    - A538.jsx / Macbeth
    - A539.jsx / Tempest
 - [Scale-aware](https://www.youtube.com/watch?v=NNnIGh9g6fA) perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
-- [Dendrochronology](https://en.wikipedia.org/wiki/Dendrochronology)
+- [Dendrochronology](https://en.wikipedia.org/wiki/Dendrochronology), [Bruce McEwen](https://en.wikipedia.org/wiki/Bruce_McEwen) & CA 1-5
 - Leo XIV, Charles III, [Nyabongo I](https://lg.wikipedia.org/wiki/Edward_Rukidi_Nyabongo_I)
 - Not amused
    - muse.ai 
