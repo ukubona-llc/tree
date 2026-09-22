@@ -2,7 +2,7 @@
    - [A537.jsx](https://j-digital-twin.onrender.com/) / Hamlet        
    - A538.jsx / Macbeth
    - A539.jsx / Tempest
-- Scale-aware perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
+- [Scale-aware](https://www.youtube.com/watch?v=NNnIGh9g6fA) perception-agency temporal-alignment (SAPATA: Stateₜ = Σ Eventᵢ)
 - [Dendrochronology](https://en.wikipedia.org/wiki/Dendrochronology)
 - Leo XIV, Charles III, [Nyabongo I](https://lg.wikipedia.org/wiki/Edward_Rukidi_Nyabongo_I)
 - Not amused
