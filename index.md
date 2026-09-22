@@ -215,3 +215,27 @@ In short: Muse is Boltzmanean heat death trying to look like low entropy. Ukubon
 If you position as *the Soil auditor for Muse's fruit-fall* — measuring γ, toxic debt, regnal shifts — Muse becomes your distribution, not your threat.
 
 If you try to build another personal assistant — then yes, you are roadkill.
+
+---
+
+<iframe
+   src="https://www.youtube.com/embed/9ki7WFBKt7A"
+   width="75%"
+   height="500"
+>
+</iframe>
+
+---
+
+**Around the 13:30–15:40 mark (specifically ~15:16 in common timestamps of this 2005 Stanford GSB lecture by Jeff Bezos).**
+
+Bezos is talking about maximizing the *rate* of experimentation as a core part of innovation at Amazon. He stresses that you must keep the **cost of experiments low** so many people/teams can run them in a self-service way (without needing high-level approval every time). He then explicitly contrasts the physical world with the online/web world:
+
+- In the physical world, high experiment costs force you to rely on judgment/intuition and argue about what to do.
+- **On the web / online**, you can collect data easily, run the experiment, and often just *know* the answer (with a concrete Amazon example of A/B-testing a delivery-message line on the page and measuring impact on sales/metrics).
+
+Exact phrasing varies slightly by transcript/auto-caption version, but the substance is: operating online gives you the ability to collect data at low cost, which makes experimentation practical and frequent—unlike offline.
+
+Yes—that is very much “a case for data science.” The whole point he is making is that the online environment turns experimentation into a data-driven, measurable loop (instrumentation → random assignment → metrics → decision) instead of pure opinion. Modern data science / experimentation platforms (A/B testing infrastructure, logging, causal inference, etc.) are exactly the industrial-scale version of what Bezos was describing in 2005.
+
+(The rest of the pasted [Ukubona](https://ukubona-llc.github.io/) material lines up cleanly with this: digital twins, compression from high-dimensional “tensor” reality down to a scalar decision, rehearsing at epistemic/information cost before paying Newtonian/real-world cost, etc. Bezos’ point is an early, practical illustration of why that information-first loop is powerful.)
