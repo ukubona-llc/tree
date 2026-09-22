@@ -64,7 +64,7 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 ├── 2. GRAYSIAN                              │
 │   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Neural Transmitters
 │   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Hormones
-│   ├── iii. Throughput-Fluency              │ Hippocampus              | Genetics
+│   ├── iii. Throughput-Fluency              │ Hippocampus (Cache)      | Genetics
 │   ├── iv.  Output-Fluency                  │ PFC                      | Epigenetics
 │   └── v.   Agency                          │ Motor-Cortex             | Milieu (Various Time Scales: Between & Within Person)
 │                                            │
