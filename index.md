@@ -21,7 +21,7 @@
 
 ### The Allostatic Shift: Ligands, Trajectory, and Soil Integrity
 
-The distinction you draw between **homeostatic loops** and **allostatic dynamics** cuts through a crucial conceptual flaw in modern AI architecture and decision-making systems.
+The distinction you draw between **homeostatic loops** and **allostatic dynamics** cuts through a crucial [conceptual flaw](https://ukubona-llc.github.io/dendron/) in modern AI architecture and decision-making systems.
 
 Homeostasis asks: *"How do we return the system to its setpoint?"*
 Allostasis asks: *"How does the system alter its setpoint—or its internal physiology—to survive an changing environment, particularly when behavior directly modifies the ligand-receptor landscape?"*
