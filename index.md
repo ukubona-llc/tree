@@ -47,10 +47,10 @@ I (SOIL) ───────→ II (PERCEPTION) ───────→ III (
 
 ```
 
-1. **$\mathbf{I} \to \mathbf{II}$ (Scale AI / Alexandr Wang):** Industrialization of transduction. Turning raw physical/event reality into machine-readable representation.
-2. **$\mathbf{II} \to \mathbf{III}$ (ChatGPT / Pre-training to Post-training):** Industrialization of selection and post-training. Applying RLHF and human preference signaling to filter a vast mimetic corpus into a usable cache.
-3. **$\mathbf{III} \to \mathbf{IV}$ (Muse Code / Concurrent Agents):** Industrialization of interaction. Spawning parallel sub-agent trajectories ($\text{Agent}_A, \text{Agent}_B, \text{Agent}_C$) where collision determines survival.
-4. **$\mathbf{V} \to \mathbf{I}'$ (Ukubona / McEwen Allostasis & SAPATA):** Industrialization of **Soil Integrity**. Measuring what the action ($\mathbf{V}$) actually does to the underlying substrate ($\mathbf{I}'$) over time through transfer mechanisms.
+1. **$\mathbf{I} \to \mathbf{II}$ (Scale AI / Alexandr Wang):** Industrialization of transduction (Ligands / Hormones). Turning raw physical/event reality into machine-readable representation.
+2. **$\mathbf{II} \to \mathbf{III}$ (ChatGPT / Pre-training to Post-training):** Industrialization of selection and post-training (Membranes). Applying RLHF and human preference signaling to filter a vast mimetic corpus into a usable cache.
+3. **$\mathbf{III} \to \mathbf{IV}$ (Muse Code / Concurrent Agents):** Industrialization of interaction (Secondary Messengers & Genes). Spawning parallel sub-agent trajectories ($\text{Agent}_A, \text{Agent}_B, \text{Agent}_C$) where collision determines survival.
+4. **$\mathbf{V} \to \mathbf{I}'$ (Ukubona / McEwen Allostasis & SAPATA):** Industrialization of **Soil Integrity** (Epigenetics / Ligands-Hormones / Behavior). Measuring what the action ($\mathbf{V}$) actually does to the underlying substrate ($\mathbf{I}'$) over time through transfer mechanisms.
 
 ---
 
