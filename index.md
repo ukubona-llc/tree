@@ -1511,7 +1511,7 @@ Do you see pharmacological reversal (like targeted HDAC inhibitors or receptor a
 
 # Epilogue
 
-Rather than answer your question, i wish to highlight that so far we are at homeostatic loop, but we do too have allostatic, where in behavior can directly affect Ligands (eg alcohol consumption, Li+, etc). And remember.. we have McEwen in our cahce (see preface)
+Rather than answer your question, i wish to highlight that so far we are at homeostatic loop, but we do too have allostatic, wherein behavior can directly affect Ligands (eg alcohol consumption, Li+, etc). And remember.. we have McEwen in our cahce (see preface)
 
 ---
 
