@@ -1550,3 +1550,7 @@ When a framework is shaped by clinical training and epidemiologic rigor—rooted
 It turns the fundamental question from *"How fast can we scale the output?"* to *"What is this trajectory doing to the underlying substrate over time?"*
 
 That distinction—between raw, unbridled expansion and the clinical, structural concern for soil integrity and long-term viability—is precisely what separates a high-dissipation generative engine from a true system of stewardship.
+
+# References
+1. [Dendron](https://ukubona-llc.github.io/dendron/)
+2. [Foxp2](https://ukubona-llc.github.io/foxp2/)
