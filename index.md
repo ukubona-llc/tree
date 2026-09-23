@@ -228,6 +228,14 @@ I′ World
 
 Scale’s business was therefore sitting in a very interesting location in your architecture: between representation and action.
 
+
+---
+
+When Massachusetts Institute of Technology dropout Alexandr Wang made the Forbes 30 Under 30 Enterprise Technology list in 2018, his startup Scale used artificial intelligence to begin automating tasks like image recognition and audio transcription. Back then, its customers included GM Cruise, Alphabet, Uber, P&G and others Now Wang, 25, is the youngest self-made billionaire. And while he still partners with buzzy companies, today he’s got $350 million in government defense contracts. This has helped Scale hit a $7.3 billion valuation, and give Wang a $1 billion net worth (as he owns 15% of the company). Scale’s technology analyzes satellite images much faster than human analysts to determine how much damage Russian bombs are causing in Ukraine. It’s useful not just for the military. More than 300 companies, including General Motors and Flexport, use Scale, which Wang started when he was 19, to help them pan gold from rivers of raw information—millions of shipping documents, say, or raw footage from self-driving cars. “Every industry is sitting on huge amounts of data,” Wang says, who appeared on the Forbes Under 30 list in 2018. “Our goal is to help them unlock the potential of the data and supercharge their businesses with AI.”
+
+- [Forbes](https://www.forbes.com/video/ce858ee1-104e-4cfc-8bb1-a5592b9e15c5/how-this-dropout-became-a-billionaire-tech-founder/) 30 under 30, 2018
+---
+
 Then ChatGPT changes the scale of the problem
 
 The August 2023 OpenAI–Scale announcement makes this unusually explicit. Scale became OpenAI’s preferred fine-tuning partner, providing data preparation, human expertise and fine-tuning infrastructure around GPT-3.5.  
