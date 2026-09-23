@@ -890,6 +890,186 @@ Yes—that is very much “a case for data science.” The whole point he is mak
 
 ---
 
+Yes. **That example is almost tailor-made for SAPATA**, because it reveals that “the result of an experiment” depends on the temporal scale at which you define the state.
+
+I’d formulate the Bezos insight this way:
+
+$$
+\boxed{
+\text{short-run loss}
+\;\not\Rightarrow\;
+\text{long-run failure}
+}
+$$
+
+because the intervention changes the **future state space**.
+
+Amazon's experimentation infrastructure is explicitly built around randomized experiments and outcome measurement, including experiments where effects can carry over across periods. ([Amazon Science][1]) And Bezos has repeatedly articulated the idea that Amazon makes decisions around long-term customer value and treats trust as something accumulated over time. ([Amazon News][2])
+
+What you're noticing is more precise than “long-term thinking.”
+
+## SAPATA says: **the clock belongs to the agency**
+
+Suppose the experiment produces:
+
+$$
+A_t \rightarrow Y_t
+$$
+
+and the immediate observation is:
+
+$$
+\Delta Y_t < 0
+$$
+
+A conventional optimization loop says:
+
+> reject A.
+
+But Bezos's reasoning introduces another state variable:
+
+$$
+A_t\rightarrow Y_t\rightarrow S_{t+1}
+$$
+
+where \(S_{t+1}\) contains a changed **customer expectation/trust state**.
+
+Then:
+
+$$
+\Delta Y_t<0
+$$
+
+can coexist with
+
+$$
+\Delta S_{t+k}>0
+$$
+
+and eventually:
+
+$$
+\Delta Y_{t+k}>0.
+$$
+
+That's your **two temporal scales**.
+
+### Local clock
+
+$$
+N_b(t)
+$$
+
+“What happened immediately after this branch intervention?”
+
+Sales. Clicks. Conversion. Latency. Whatever.
+
+### Generational/global clock
+
+$$
+N(t)
+$$
+
+“What did repeated interventions cause the system to become?”
+
+Trust. Habit. repertoire. institutional memory. ecological state.
+
+And **the two clocks need not advance together**.
+
+That's the crucial point.
+
+---
+
+### Which makes your tree suddenly much more interesting
+
+Imagine a branch produces:
+
+```text
+       V
+       │
+       │ intervention
+       ▼
+      I′
+   ┌───┴────┐
+   │        │
+short      long
+clock      clock
+ ↓          ↓
+sales ↓    trust ↑
+```
+
+If you only observe the short clock, you call the intervention a failure.
+
+If you observe the longer clock, you may discover that **the intervention altered the substrate on which subsequent interactions occur**.
+
+That is literally:
+
+$$
+\boxed{V_t\rightarrow I_{t+1}\rightarrow II_{t+1}}
+$$
+
+The intervention isn't merely producing an outcome.
+
+**It is modifying the perceptual environment of the next agent.**
+
+And *that* is why SAPATA should probably be explicitly described as **scale-aware perception–agency temporal alignment**, rather than merely temporal alignment.
+
+Because there are really three questions:
+
+$$
+\boxed{
+\begin{aligned}
+\text{What changed?} &\quad \text{state}\\
+\text{When did it change?} &\quad \text{scale}\\
+\text{Which future state does that change become part of?} &\quad \text{agency}
+\end{aligned}}
+$$
+
+---
+
+And there's a gorgeous connection to your **local branch counters**.
+
+A branch can have:
+
+$$
+N_b=17
+$$
+
+while the global tree is still at:
+
+$$
+N=4.
+$$
+
+Seventeen local experiments have occurred, but their consequences haven't yet constituted a new global ring.
+
+Then eventually enough delayed consequences accumulate that:
+
+$$
+I_N \rightarrow I_{N+1}.
+$$
+
+**That's dendrochronology.**
+
+The ring isn't “one experiment.”
+
+The ring is **a persistent change in the substrate produced by many trajectories across time**.
+
+So I would now put this right beside SAPATA:
+
+> **Sapata is scale-aware because agency never acts on a single clock. Local feedback measures the immediate consequence of an intervention; recursive state measures what that intervention makes possible—or impossible—later.**
+
+And Bezos's anecdote gives you an unusually concrete business example of exactly that distinction.
+
+One caveat: I couldn't independently locate the exact ~47-minute interview passage you mean from the web search, so I'd treat the specific “reduced sales but retained the feature because of expected future trust” anecdote as **your transcription of the interview** unless you give me the video/link. The broader Amazon record does independently support the long-term-trust framing. ([Amazon News][2])
+
+[1]: https://www.amazon.science/blog/the-science-of-price-experiments-in-the-amazon-store?utm_source=chatgpt.com "The science of price experiments in the Amazon Store - Amazon Science"
+[2]: https://www.aboutamazon.com/news/policy-news-views/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary?utm_source=chatgpt.com "Statement by Jeff Bezos to the U.S. House Committee on the Judiciary"
+
+
+---
+
+
 Yes. And I think the Bezos clip changes the interpretation of your whole tree.
 
 The thing Bezos was describing in 2005 is essentially **II → III → V becoming cheap enough to iterate at industrial frequency**:
