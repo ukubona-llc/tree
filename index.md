@@ -794,6 +794,8 @@ If you try to build another personal assistant — then yes, you are roadkill.
 
 **Around the 13:30–15:40 mark (specifically ~15:16 in common timestamps of this 2005 Stanford GSB lecture by Jeff Bezos).**
 
+See also [R535.jsx](https://www.youtube.com/watch?v=J2xGBlT0cqY) 
+
 Bezos is talking about maximizing the *rate* of experimentation as a core part of innovation at Amazon. He stresses that you must keep the **cost of experiments low** so many people/teams can run them in a self-service way (without needing high-level approval every time). He then explicitly contrasts the physical world with the online/web world:
 
 - In the physical world, high experiment costs force you to rely on judgment/intuition and argue about what to do.
