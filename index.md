@@ -27,7 +27,7 @@ That is the exact dividing line between a descriptive model and a truly predicti
 
 The mechanism is identical across rigorous disciplines:
 
-* **Harmonic Theory:** The [unspoken root](https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_major,_BWV_846#Schwencke_measure) of a $C7\flat9$ provides the functional gravity that explains why the visible, observed notes (the diminished structure) are forced to resolve the way they do.
+* **Harmonic Theory:** The [unspoken root](https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_major,_BWV_846#Schwencke_measure) of a $C(#)7\flat9$ provides the functional gravity that explains why the visible, observed notes (the diminished structure) are forced to resolve the way they do.
 * **Astrophysics:** A black hole is absent from the visual event stream, but its exact mass and spin are mathematically imputed by the frantic orbital mechanics of the visible stars caught in its pull.
 * **Statistical Modeling:** In survival analysis, the true shape of a hazard curve isn't defined solely by the observed failure events. It is dictated by the unobserved heterogeneity—the latent frailty and the censored data that *didn't* trigger an event.
 
