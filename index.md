@@ -146,7 +146,7 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │        ├── d. Collisions                   │
 │        └── e. Trajectory-Planners          │
 │                                            │
-├── 2. GRAYSIAN                              │ Trial & Error of the Cambrian Explosion: Unicellular -> Multicellular Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
+├── 2. GRAYSIAN                              │ Trial & Error of the Cambrian Explosion: Protozoan -> Metazoan Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
 │   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Milieu: Ligands, Neural Transmitters, Hormones
 │   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Membranes
 │   ├── iii. Throughput-Fluency              │ Hippocampus (Cache)      | Secondary Messangers (Cytoplasm) & Genetics (Nucleoplasm)
