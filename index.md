@@ -149,7 +149,7 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │   ├── i.   Physics                         │  2. Memetic
 │   ├── ii.  Models                          │  3. Institutional
 │   ├── iii. Enterprises                     │  4. EQUILIBRIA
-│   ├── iv.  Collisions → EQUILIBRIA         │     ├── a. Adversarial
+│   ├── iv.  Collisions → EQUILIBRIA         │     ├── a. Adversarial (eg Palantir)
 │   │        ├── a. Adversarial              │     ├── b. Transactional
 │   │        ├── b. Transactional            │     ├── c. Cooperative
 │   │        ├── c. Cooperative              │     ├── d. Regulatory
