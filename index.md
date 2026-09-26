@@ -146,12 +146,12 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │        ├── d. Collisions                   │
 │        └── e. Trajectory-Planners          │
 │                                            │
-├── 2. GRAYSIAN                              │
-│   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Neural Transmitters
-│   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Hormones
-│   ├── iii. Throughput-Fluency              │ Hippocampus (Cache)      | Genetics
+├── 2. GRAYSIAN                              │ Trial & Error of the Cambrian Explosion: Unicellular -> Multicellular Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
+│   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Milieu: Ligands, Neural Transmitters, Hormones
+│   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Membranes
+│   ├── iii. Throughput-Fluency              │ Hippocampus (Cache)      | Secondary Messangers (Cytoplasm) & Genetics (Nucleoplasm)
 │   ├── iv.  Output-Fluency                  │ PFC                      | Epigenetics
-│   └── v.   Agency                          │ Motor-Cortex             | Milieu (Various Time Scales: Between & Within Person)
+│   └── v.   Agency                          │ Motor-Cortex             | Proteins (Various Time Scales: Between & Within Person)
 │                                            │
 ├── 3. NIETZSCHEAN                           │
 │   ├── i.   Wavelength-Periodicity          │
