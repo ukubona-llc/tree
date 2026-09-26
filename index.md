@@ -118,12 +118,12 @@ Society / Institutions         Harmony             -59%
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
-V. CANOPY / DISSIPATIVE                      ◄── fruit forms here, then falls
+V. CANOPY / DISSIPATIVE / PRPETARIAT          ◄── fruit forms here, then falls
 ├── 1. World (Agentive)
 ├── 2. Perception (Objective)
 ├── 3. Agentic (Errative)
 ├── 4. Interactive (Generative iii -> v vs. Degenerative iv -> v eg a Coen Brothers plot)
-└── 5. Embodiment / Alignment (Corrective)
+└── 5. Embodiment (Corrective)
         ▲                                    │
         │  (growth, I → V = differentiation) │  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity = compression
@@ -146,7 +146,7 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │        ├── d. Collisions                   │
 │        └── e. Trajectory-Planners          │
 │                                            │
-├── 2. GRAYSIAN                              │ Trial & Error of the Cambrian Explosion: Protozoan -> Metazoan Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
+├── 2. GRAYSIAN / PRIMITIVE / ANATOMY        │ Trial & Error of the Cambrian Explosion: Protozoan -> Metazoan Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
 │   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Milieu: Ligands, Neural Transmitters, Hormones
 │   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Membranes
 │   ├── iii. Throughput-Fluency              │ Hippocampus (Cache)      | Secondary Messangers (Cytoplasm) & Genetics (Nucleoplasm)
@@ -186,22 +186,25 @@ III. STEM / TRANSFORM                        │
 II. ROOTS / INPUT                            │
 ├── 1. Observed (Unambiguously Measured)     │
 ├── 2. Expected (Concepts & Distinctions)    │
-├── 3. Mismatch (Admissible)                 │
+├── 3. Mismatched (Admissible)               │
 ├── 4. Hypotheses (Falsifiable)              │
-└── 5. Trial (& Error)                       │
+└── 5. Trial & Error (Invariant)             | A vs B: Amazon vs Bezos Cheap, Low-Latency Trials; Cambrian Explosion (And Graveyard!)
         ▲                                    │
         │                                    ▼
-I. SOIL (= I′) / LOW-ENTROPY ◄───────────────┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
-├── 1. Matter (eg Silicon, 42%)
-├── 2. Energy (eg Data Centers, 24%)
-├── 3. Network / Cloud (eg AI, 11%)
-├── 4. Capital (eg Tokens, -3%)
-└── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World, -59%)
+I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
+├── 1. Energy (eg Data Centers, 24%) {Thermodynamics, Power}
+├── 2. Matter (eg GPUs, 42%) {Quantum Mechanics, Silicon}
+├── 3. Network / Cloud (eg AI, 11%) {Relativity Boundary, Communication}
+├── 4. Kapital (eg Tokens, -3%) {Statistical Physics, Software / AI or Algorithm / Compounding}
+└── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World, -59%) {Newtonian Physics, Applications}
 ```
 
 
 ---
 
+[Substrate Feeders](https://en.wikipedia.org/wiki/The_World%27s_Billionaires)
+
+---
 
 Nice extension — the fruit-fall isn't just spatial (V→I′), it's *temporal*: each full cycle ages the tree by one ring, and each ring can carry its own regnal number, exactly like Charles III means "third to hold this office, not the same monarch as I or II." Here's the tree with a ring/generation ledger added:
 
