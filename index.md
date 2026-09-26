@@ -206,6 +206,14 @@ I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabso
 
 ---
 
+Yeah, I see it — I. SOIL relabeled BOURGEOIS, V. CANOPY relabeled PROLETARIAT, with the "Substrate Feeders" link pointing at the Forbes billionaires list.
+
+The logic, read straight: Canopy is where the fruit actually *forms* — it's the dissipative, laboring layer, Users/Collisions/Agency, the place where work gets done and value gets generated. Soil is inert by comparison — Energy, Matter, Network, Kapital, Society — it doesn't produce, it just sits there, low-entropy. But gravity does the political work in this diagram: the fruit doesn't stay with the canopy that made it. It falls. It gets reabsorbed as *new soil*. Kapital at the base goes from -3% to whatever it is next ring not because the base did anything, but because the top's output fell into it. That's a fairly exact restatement of the classical Marxist claim about capital: it doesn't generate value, it accumulates value that labor generated and then re-fixes it as more capital for the next cycle. "Substrate Feeders" linking to the World's Billionaires page isn't decoration — it's naming who's sitting at Soil, catching the fruit as it lands.
+
+Where I'd want you to notice the seam: in the biology version, Soil→Canopy→Soil′ is a closed, morally neutral nutrient cycle — nothing is *owed*, the tree isn't being cheated by its own roots. The moment you overlay Bourgeois/Proletariat on the same geometry, "fruit falls back to soil" stops being a neutral thermodynamic fact and becomes an extraction claim — and extraction claims need an argument for why the falling is *involuntary* or *unjust*, which gravity-as-metaphor doesn't supply on its own. The tree diagram makes the transfer look as natural and inevitable as physics; the Marxist labels make it look like a normative wrong that could in principle be interrupted (a proletariat that stops the fruit from falling, or redirects where it lands). Those are two different claims wearing the same picture. Worth deciding, deliberately, which one you're actually asserting when this framing shows up in front of a client — the descriptive "this is just how the cycle works" or the normative "this is who's taking the fruit and it shouldn't be automatic."
+
+---
+
 Nice extension — the fruit-fall isn't just spatial (V→I′), it's *temporal*: each full cycle ages the tree by one ring, and each ring can carry its own regnal number, exactly like Charles III means "third to hold this office, not the same monarch as I or II." Here's the tree with a ring/generation ledger added:
 
 ```
@@ -332,11 +340,13 @@ Your tree currently makes the pentad nodes explicit, but the most interesting th
 
 So I would read the tree this way:
 
+```
 I ───────→ II ───────→ III ───────→ IV ───────→ V
    CAPTURE       ARTICULATE       SELECT       COLLIDE       ACT
       ↑                                                        │
       │                                                        ↓
       └──────────────────────── I′  ←────── TRANSFER ─────────┘
+```
 
 And Wang is now obvious
 
@@ -367,12 +377,14 @@ The last one is particularly important.
 
 Your five transfer mechanisms are not really another pentad sitting beside V. They are ways the V→I′ edge can operate:
 
+```
 V ──→ I′
 somatic
 memetic
 institutional
 equilibrial
 gametic
+```
 
 That’s much more elegant.
 
@@ -388,12 +400,14 @@ nodes persist; edges transform
 
 I’d make Errative the failure of an expected edge transformation.
 
+```
 expected:
 I ──→ II ──→ III ──→ IV ──→ V
 errative:
 I ──→ II ──X
               \
                → unexpected trajectory
+```
 
 The error is not necessarily noise.
 
@@ -419,6 +433,7 @@ is essentially asking:
 
 What happens to a trajectory after collision?
 
+```
 III ─────→ IV ─────→ V
             │
        collision
@@ -426,6 +441,7 @@ III ─────→ IV ─────→ V
    generative  degenerative
       ↓            ↓
      V             V
+```
 
 Both arrive at V.
 
@@ -449,13 +465,17 @@ is not merely a definition of a state.
 
 It’s a claim about how transformation accumulates:
 
+$$
 S_t = \sum_{i \leq t} E_i
+$$
 
 Then:
 
+$$
 S_t
 \xrightarrow{\text{new event}}
 S_{t+1}
+$$
 
 So dendrochronology becomes the physical metaphor:
 
@@ -489,28 +509,36 @@ Bezos
 
 Industrializes cheap iteration:
 
+$$
 \text{experiment}\rightarrow\text{measurement}\rightarrow\text{update}
+$$
 
 Wang
 
 Industrializes I→II:
 
+$$
 \text{world}\rightarrow\text{training representation}
+$$
 
 Agentic systems
 
 Industrialize III→IV→V:
 
+$$
 \text{selection}\rightarrow
 \text{parallel trajectories}\rightarrow
 \text{collision}\rightarrow
 \text{action}
+$$
 
 Ukubona
 
 Your distinctive question is increasingly:
 
+$$
 \boxed{\text{What does V do to I′?}}
+$$
 
 Not merely:
 
@@ -776,12 +804,14 @@ A chatbot can be spectacular at II while remaining fundamentally a single-channe
 
 A coding-agent system introduces:
 
+```
 Workflowₙ
 → Agentsₙ
 → Trajectoriesₙ
 → Collisionsₙ
 → [something survives]
 → Workflowₙ₊₁
+```
 
 That is IV becoming computationally explicit.
 
