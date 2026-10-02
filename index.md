@@ -135,14 +135,14 @@ PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
 V. CANOPY / DISSIPATIVE / PRPETARIAT  ───────┐  fruit forms here, then falls
-├── 1. World (Agentive)                      │
-├── 2. Perception (Objective)                │
-├── 3. Agentic (Errative)                    │
-├── 4. Interactive                           │
-│      Generative iii → v                    │
-│      vs. Degenerative iv → v               │
-│      (eg a Coen Brothers plot)             │
-└── 5. Embodiment (Corrective)               │
+├── 1. World = Engine or Data (Agentive)     │
+├── 2. Perception = Mimicry (Objective)      │
+├── 3. Agentic = Routing (Errative)          │
+├── 4. Interactive = Collisions              │
+│        (Generative iii → v) vs.            │
+│        (Degenerative iv → v,               │
+│           eg a Coen Brothers plot)         │
+└── 5. Cambrian = Embodiment (Selective)     │ Triumph V → I' & Graveyard
         ▲                                    │
         │  (growth, I → V = differentiation) ▼  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity = compression
@@ -197,19 +197,19 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 III. STEM / TRANSFORM                        │
 ├── 1. Dionysian  — Mechanisms & Experiential|
 ├── 2. Apollonian — Single-Agent Objective   │
-├── 3. Soul       — Luck Masks Insufficiency │
+├── 3. Soul       — Luck Masks Insufficiency │ Flamenco, Gospel
 ├── 4. Mind       — Multi-Agent Collision    │
 └── 5. Body       — Reassertion of Trajectory|
         ▲                                    │
         │                                    │
-II. ROOTS / INPUT                            │
+II. ROOTS / INPUT                            ▼
 ├── 1. Observed (Unambiguously Measured)     │
 ├── 2. Expected (Concepts & Distinctions)    │
-├── 3. Mismatched (Admissible)               │
+├── 3. Mismatched (Admissible)               |
 ├── 4. Hypotheses (Falsifiable)              │
 └── 5. Trial & Error (Invariant)             | A vs B: Amazon vs Bezos Cheap, Low-Latency Trials; Cambrian Explosion (And Graveyard!)
         ▲                                    │
-        │                                    ▼
+        │                                    |
 I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
 ├── 1. Energy (eg Data Centers, 24%) {Thermodynamics, Power}
 ├── 2. Matter (eg GPUs, 42%) {Quantum Mechanics, Silicon}
@@ -222,6 +222,8 @@ I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabso
 ---
 
 [Substrate Feeders](https://en.wikipedia.org/wiki/The_World%27s_Billionaires)
+
+[Flamenco](https://www.youtube.com/watch?v=p7N5xy4dygc)
 
 ---
 
@@ -326,7 +328,7 @@ II  Perception
     ↓
     enormous mimetic corpus
     ↓
-III Cache / Routing
+III Cache / Routing / Meaning
     human judgments
     rankings
     demonstrations
