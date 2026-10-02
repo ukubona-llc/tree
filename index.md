@@ -3026,7 +3026,7 @@ if __name__ == "__main__":
     )
 
     print("\nSelected V → I':")
-    print(result)
+    print(result)   
 ```
 
 The important architectural point is that **`generate_extended_stacks()` is III**.
