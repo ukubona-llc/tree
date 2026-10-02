@@ -3173,7 +3173,6 @@ Please do!
 
 Here is the block, in the same format as the other case studies:
 
-```markdown
 # Case-Study 5
 
 ## The Birth of Tragedy, or Hellenism and Pessimism
@@ -3211,7 +3210,7 @@ Case-Study 3's loop (expand consciousness, learn which questions to ask the univ
 *Test:* Does the optimism survive contact with its own IV, or does it only ever sample (II)? Observable proxy: whether stated goals are revised after failures, or only re-scoped.
 
 Inferences about inner states, affect, or substance use are not observable and are excluded from this file.
-```
+
 
 Notes on what I changed from your draft:
 - I used Optimus for the robot, because "Prime" belongs to the Transformers character.
@@ -3239,7 +3238,6 @@ Drugs and affect stay out because the hypothesis doesn't need them. They aren't 
 
 Here are the replacement sections, to swap in for "The protagonist" and "Hypothesis" in Case-Study 5:
 
-````markdown
 ## Imputation (Section IV applied)
 
 The event stream is what is said: "I'm an optimist," a robot named Optimus, a loop built on expanding consciousness. The framework does not stop at the stream. It imputes the hidden variable from the residual, as a black hole is inferred from the orbits of visible stars.
@@ -3264,7 +3262,7 @@ X imputed:   not convinced by his own words
 *Test:* Does stated optimism predict risk-hedging (H1 says it lowers it) or accompany it (H2, H3)? Do goals survive failure by re-scoping (a stance) or by revision (a belief)?
 
 Hypothesis only. It is imputed from public statements and behavior, not from inner states, affect, or substance use, which are not observable and are excluded from this file.
-````
+
 
 I left the earlier mapping (I, II, IV) and the Socratic paragraph in place. The Socratic paragraph now contradicts the imputation, so delete it from the draft.
 
