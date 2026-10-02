@@ -3270,6 +3270,25 @@ I left the earlier mapping (I, II, IV) and the Socratic paragraph in place. The 
 
 --Claude
 
+---
+
+# Bonus
+
+<iframe
+   src="https://www.youtube.com/embed/hk4MLcx_gqw"
+   height="500"
+   width="75%"
+>
+</iframe>
+
+```
+I. Facebook
+II. Computers / Single-User
+III. ?
+IV. Networking / Multi-User Collisions
+V. Zucknet → I'
+```
+
 # References
 
 1. [Tree](https://ukubona-llc.github.io/tree/)
