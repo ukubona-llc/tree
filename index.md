@@ -134,14 +134,17 @@ Society / Institutions         Harmony             -59%
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
-V. CANOPY / DISSIPATIVE / PRPETARIAT          ◄── fruit forms here, then falls
-├── 1. World (Agentive)
-├── 2. Perception (Objective)
-├── 3. Agentic (Errative)
-├── 4. Interactive (Generative iii -> v vs. Degenerative iv -> v eg a Coen Brothers plot)
-└── 5. Embodiment (Corrective)
+V. CANOPY / DISSIPATIVE / PRPETARIAT  ───────┐  fruit forms here, then falls
+├── 1. World (Agentive)                      │
+├── 2. Perception (Objective)                │
+├── 3. Agentic (Errative)                    │
+├── 4. Interactive                           │
+│      Generative iii → v                    │
+│      vs. Degenerative iv → v               │
+│      (eg a Coen Brothers plot)             │
+└── 5. Embodiment (Corrective)               │
         ▲                                    │
-        │  (growth, I → V = differentiation) │  TRANSFER MECHANISMS NOW EXPLICIT
+        │  (growth, I → V = differentiation) ▼  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity = compression
 IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │                                            │
