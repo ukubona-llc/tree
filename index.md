@@ -149,7 +149,7 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │   ├── i.   Physics                         │  2. Memetic
 │   ├── ii.  Models                          │  3. Institutional
 │   ├── iii. Enterprises                     │  4. EQUILIBRIA
-│   ├── iv.  Collisions → EQUILIBRIA         │     ├── a. Adversarial (eg Palantir)
+│   ├── iv.  Markets → EQUILIBRIA            │     ├── a. Adversarial (eg Palantir)
 │   │        ├── a. Adversarial              │     ├── b. Transactional
 │   │        ├── b. Transactional            │     ├── c. Cooperative
 │   │        ├── c. Cooperative              │     ├── d. Regulatory
@@ -159,8 +159,8 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │        ├── a. Sovereign                    │
 │        ├── b. Kin-Network                  │
 │        ├── c. Enterprises                  │
-│        ├── d. Collisions                   │
-│        └── e. Trajectory-Planners          │
+│        ├── d. Markets                      │
+│        └── e. Hand: Visible or Invisible   │
 │                                            │
 ├── 2. GRAYSIAN / PRIMITIVE / ANATOMY        │ Trial & Error of the Cambrian Explosion: Protozoan -> Metazoan Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
 │   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Milieu: Ligands, Neural Transmitters, Hormones
