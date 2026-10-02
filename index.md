@@ -146,7 +146,7 @@ Yes. **The above sentence is the breakthrough.**
 
 The key isn't even “Coen Brothers.” It's the separation of **scale from emergence**:
 
-> **Sample size → ∞ is necessary, not sufficient, for the Cambrian step.**
+> **Sample size ([Amazon Reviews](https://arxiv.org/pdf/1704.01444)) → ∞ ([Entire Internet](https://arxiv.org/abs/2005.14165)) is necessary, not sufficient, for the Cambrian step.**
 
 Scale supplies *possibility*. It does not supply *form*.
 
