@@ -2384,7 +2384,7 @@ This 2005 interview captures Mark Zuckerberg explicitly detailing his strategy o
 I. Engine / God: Answer = 42
 II. Objective / Man: Sample = x10
 III. Search / Work: DMT = Massive Combinatorials
-IV. Access / Tool: Unobserved Q = God, Simulation, Other
+IV. Access / Tool: Unobserved Q = Religion, Simulation, Other
 V. Local / Fruit-of-Labor: Question → I'
 ```
 
@@ -2459,7 +2459,7 @@ Your Case Study 3 is explicitly:
 > **I. Engine / God: Answer = 42**
 > **II. Objective / Man: Sample = ×10**
 > **III. Search / Work: DMT = Massive Combinatorials**
-> **IV. Access / Tool: Unobserved Q = God, Simulation, Other**
+> **IV. Access / Tool: Unobserved Q = Religion, Simulation, Other**
 > **V. Local / Fruit-of-Labor: Question → I′** 
 
 The clever move is that **42 is deliberately not the interesting thing**.
