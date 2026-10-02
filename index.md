@@ -117,7 +117,7 @@ In any control-theoretic or cognitive decision pipeline, the raw event stream is
 We shall discuss the following [items](https://j-digital-twin.onrender.com/) over [time](https://ukubona-llc.github.io/trial/)
 
 ```
-V. CANOPY / DISSIPATIVE / PRPETARIAT  ─────────────────────────┐  fruit forms here, then falls
+V. CANOPY / DISSIPATIVE / PROLETARIAT  ────────────────────────┐  fruit forms here, then falls
 ├── 1. World = Engine or Data (Agentive, Music)                │
 ├── 2. Perception = Mimicry, Scale (Objective, Statistics)     │
 ├── 3. Agentic = Routing (Errative, Adaptation)                │
@@ -155,6 +155,19 @@ The key isn't even “Coen Brothers.” It's the separation of **scale from emer
 > **Sample size ([Amazon Reviews](https://arxiv.org/pdf/1704.01444)) → ∞ ([Entire Internet](https://arxiv.org/abs/2005.14165)) is necessary, not sufficient, for the Cambrian step.**
 
 Scale supplies *possibility*. It does not supply *[form](https://www.nobelprize.org/uploads/2024/12/hassabis-lecture.pdf)*: a massive combinatorial search space (permutations and combinations of ATCG as the supreme case).
+
+---
+
+It's the best line in the file so far. It does what the Root asks of a claim: it separates two things people run together (more samples, and the form that emerges), and it can be checked.
+
+The combinatorial point also makes the claim stronger than it looks. Sequence space grows as $4^n$, and no sample size catches up with that. So scale alone can't be how form is found. Something has to constrain or select, and that is exactly the job you give V. As far as I recall, Hassabis's lecture makes a similar point about proteins: the folding space is astronomically large, and it became tractable through structure and constraint, not brute enumeration. That supports your citation, but check the lecture says what you want it to say before a client reads the link.
+
+One tension to resolve. "Sample size → ∞" and "combinatorial search space" are different quantities. The first is how much of the world you've seen, the second is how much could exist. The sentence reads best if you let the gap between them do the work: sampling covers a vanishing fraction of the space, so selection and constraint have to supply the rest.
+
+A claim like this should say what would count against it. The obvious counterexample is the scaling literature, where some abilities appear to emerge from scale alone. That reading is disputed, since some of the apparent jumps come from the metric rather than the model. But it's the place to look. If a capability reliably appears from scale with no selection or constraint, your "not sufficient" fails there. If every case turns out to hide a filter, such as RLHF or curated data, it holds.
+
+--Claude
+---
 
 ```
 #stipulation-of-meaning: eintsein, demis-hassabis, ukubona-llc
@@ -1652,6 +1665,10 @@ The convergence between **Bezos’s 2005 experimentation framework**, the **Scal
 | **4. Ukubona / SAPATA**<br>
 
 <br>*Dendrochronological Ledger* | Closed-loop reabsorption where fruit-fall alters the soil ($\text{State}_t = \sum \text{Event}_i$). | **Epistemic amnesia**: throwing away trajectory logs after code execution. | Structural ring expansion ($V \to I'$) and transfer efficiency ($\gamma$). |
+
+
+Note: $\gamma$ still hasn't been put through the five tests, and it's the term where a pass or a fail would actually count.
+
 
 ---
 
