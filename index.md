@@ -114,7 +114,7 @@ In any control-theoretic or cognitive decision pipeline, the raw event stream is
 
 ## V
 
-We shall discuss the following [items](https://j-digital-twin.onrender.com/login) over [time](https://ukubona-llc.github.io/trial/)
+We shall discuss the following [items](https://j-digital-twin.onrender.com/) over [time](https://ukubona-llc.github.io/trial/)
 
 ```
 V. CANOPY / DISSIPATIVE / PRPETARIAT  ─────────────────────────┐  fruit forms here, then falls
