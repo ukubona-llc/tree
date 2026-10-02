@@ -114,18 +114,18 @@ In any control-theoretic or cognitive decision pipeline, the raw event stream is
 
 ## V
 
-We shall discuss the following items over [time](https://ukubona-llc.github.io/trial/)
+We shall discuss the following [items](https://j-digital-twin.onrender.com/login) over [time](https://ukubona-llc.github.io/trial/)
 
 ```
-V. CANOPY / DISSIPATIVE / PRPETARIAT  ───────────┐  fruit forms here, then falls
-├── 1. World = Engine or Data (Agentive)         │
-├── 2. Perception = Mimicry, Scale (Objective)   │
-├── 3. Agentic = Routing (Errative)              │
-├── 4. Interactive = Collisions, Emergence       │
-│        (Generative iii → v) vs.                │
-│        (Degenerative iv → v,                   │
-│           eg a Coen Brothers plot)             │
-└── 5. Cambrian = Embodiment (Selective)         │ Triumph V → I' & Graveyard
+V. CANOPY / DISSIPATIVE / PRPETARIAT  ─────────────────────────┐  fruit forms here, then falls
+├── 1. World = Engine or Data (Agentive, Music)                │
+├── 2. Perception = Mimicry, Scale (Objective, Statistics)     │
+├── 3. Agentic = Routing (Errative, Adaptation)                │
+├── 4. Interactive = Collisions, Emergence  (Games, Regulation)│
+│        (Generative iii → v) vs.                              │
+│        (Degenerative iv → v,                                 │
+│           eg a Coen Brothers plot)                           │
+└── 5. Cambrian = Embodiment (Selective, Technology)           │ Triumph V → I' & Graveyard
 ```
 
 But what we wish to make clear now is the mechanics:
