@@ -375,12 +375,16 @@ I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabso
 └── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World, -59%) {Newtonian Physics, Applications}
 ```
 
+> *We discuss broader societal impacts of this finding and of GPT-3 in general.*     
+> -- Tom B. Brown et al
 
 ---
 
 [Substrate Feeders](https://en.wikipedia.org/wiki/The_World%27s_Billionaires)
 
 [Flamenco](https://www.youtube.com/watch?v=p7N5xy4dygc)
+
+[GPT-3](https://arxiv.org/abs/2005.14165)
 
 ---
 
