@@ -107,6 +107,28 @@ In any control-theoretic or cognitive decision pipeline, the raw event stream is
 
 ## V
 
+We shall discuss the following items over [time](https://ukubona-llc.github.io/trial/)
+
+```
+V. CANOPY / DISSIPATIVE / PRPETARIAT  ───────┐  fruit forms here, then falls
+├── 1. World = Engine or Data (Agentive)     │
+├── 2. Perception = Mimicry (Objective)      │
+├── 3. Agentic = Routing (Errative)          │
+├── 4. Interactive = Collisions              │
+│        (Generative iii → v) vs.            │
+│        (Degenerative iv → v,               │
+│           eg a Coen Brothers plot)         │
+└── 5. Cambrian = Embodiment (Selective)     │ Triumph V → I' & Graveyard
+```
+
+But what we wish to make clear now is the mechanics:
+
+I. Engine: first-class, Data as second-class, Agentive & Experiential as a diminutive participant & intention in an engine of cosmic scale
+II. Perception: sampling of the engine & data, Next-Token Prediction as "attention" to a specific context of this engine
+III. Agentic: classifying & updating modes of error that are guaranteed to emerge from constrained perception 
+IV. Interactive: unsupervised & emergent mechanisms from multi-agent collisions (think sentiment neuron as N=1 origin story)
+V. Selective: the "cambrian" explosion of emergent mechanisms when `II. Sample-Size` → $\infty$ → I'. World Engine
+
 ### The Allostatic Shift: Ligands, Trajectory, and Soil Integrity
 
 The distinction you draw between **homeostatic loops** and **allostatic dynamics** cuts through a crucial [conceptual flaw](https://ukubona-llc.github.io/dendron/) in modern AI architecture and decision-making systems.
