@@ -2495,7 +2495,15 @@ If the Engine contains an astronomically [large possibility space](https://ukubo
 
 Then III takes that finite observation and searches [combinations/trajectories](https://ukb-pyro.github.io/i-had-a-dream/) within it.
 
-But the combinatorial space can vastly exceed the observed sample.
+But the combinatorial space can vastly exceed the observed sample (think chord-stacks in [jazz](https://ukubona-llc.github.io/thy-kingdom-come/#pentad)).
+
+```
+I. Sound & Harmonic Series
+II. 12TET & Diatonic Chords
+III. Chord-Stack System-of-Berklee Names (ie Bass + ANY chord stacked on it: triad, 7th, 9th, 13th)
+IV. Harmony, Tension, Extension, Alteration
+V. Rootless-V7b9 → I'→ V' → I" V → I" → etc
+```
 
 Your earlier formulation already nailed this:
 
