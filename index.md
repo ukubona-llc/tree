@@ -128,6 +128,12 @@ V. CANOPY / DISSIPATIVE / PRPETARIAT  ──────────────
 └── 5. Cambrian = Embodiment (Selective, Technology)           │ Triumph V → I' & Graveyard
 ```
 
+And so we conclude that technology is merely a symptom of something deeper in physics: [Bejan's Constructal Law](https://ukubona-llc.github.io/bejan/)
+
+- Cambrian explosion is an outstanding case-study
+- Amazon river & enterprise are another beautiful one
+- Ukubona LLC philosophy has found its voice
+
 But what we wish to make clear now is the mechanics:
 
 ```
