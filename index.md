@@ -154,7 +154,16 @@ The key isn't even “Coen Brothers.” It's the separation of **scale from emer
 
 > **Sample size ([Amazon Reviews](https://arxiv.org/pdf/1704.01444)) → ∞ ([Entire Internet](https://arxiv.org/abs/2005.14165)) is necessary, not sufficient, for the Cambrian step.**
 
-Scale supplies *possibility*. It does not supply *form*.
+Scale supplies *possibility*. It does not supply *[form](https://www.nobelprize.org/uploads/2024/12/hassabis-lecture.pdf)*: a massive combinatorial search space.
+
+```
+#stipulation-of-meaning #eintsein #demis-hassabis #ukubona-llc
+Engine / Unambiguosly Measured
+Objective / Concepts & Distinctions
+Search / Admissibility
+Falsifiability
+Trial & Error
+```
 
 Then:
 
