@@ -123,11 +123,15 @@ V. CANOPY / DISSIPATIVE / PRPETARIAT  ───────┐  fruit forms here
 
 But what we wish to make clear now is the mechanics:
 
-I. Engine: first-class, Data as second-class, Agentive & Experiential as a diminutive participant & intention in an engine of cosmic scale
-II. Perception: sampling of the engine & data, Next-Token Prediction as "attention" to a specific context of this engine
-III. Agentic: classifying & updating modes of error that are guaranteed to emerge from constrained perception 
-IV. Interactive: unsupervised & emergent mechanisms from multi-agent collisions (think sentiment neuron as N=1 origin story)
-V. Selective: the "cambrian" explosion of emergent mechanisms when `II. Sample-Size` → $\infty$ → I'. World Engine
+```
+I. Engine: first-class; Data is its second-class exhaust; the Agentive & Experiential is a diminutive participant and intention inside an engine of cosmic scale
+II. Perception: finite sampling of engine & data; Next-Token Prediction as "attention" to one context of the engine
+III. Agentic: constrained perception guarantees modes of error; routing = classifying and updating on them
+IV. Interactive: unsupervised, emergent mechanisms from multi-agent collisions (sentiment neuron as the N=1 origin story). Fork: generative (iii → v) vs. degenerative (iv → v)
+V. Selective: as II. Sample-Size → ∞, a "Cambrian" explosion of emergent mechanisms; selection keeps some (Triumph, V → I') and buries the rest (Graveyard)
+```
+
+Sample size → ∞ is necessary, not sufficient, for the Cambrian step. Scale gives the raw material for emergence, but IV decides whether collisions are generative or degenerative. The Coen Brothers branch is what happens when scale arrives without a good IV. V is therefore a filter, and the graveyard is the larger share of what it filters.
 
 ### The Allostatic Shift: Ligands, Trajectory, and Soil Integrity
 
@@ -228,7 +232,7 @@ Society / Institutions         Harmony             -59%
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
-V. CANOPY / DISSIPATIVE / PRPETARIAT  ───────┐  fruit forms here, then falls
+V. CANOPY / DISSIPATIVE / PROLETARIAT  ──────┐  fruit forms here, then falls
 ├── 1. World = Engine or Data (Agentive)     │
 ├── 2. Perception = Mimicry (Objective)      │
 ├── 3. Agentic = Routing (Errative)          │
@@ -2103,7 +2107,7 @@ becomes a serious intellectual bridge rather than a collection of interesting an
 
 # Epilogue
 
-Rather than answer your question, i wish to highlight that so far we are at homeostatic loop, but we do too have allostatic, wherein behavior can directly affect Ligands (eg alcohol consumption, Li+, etc). And remember.. we have McEwen in our cahce (see preface)
+Rather than answer your question, i wish to highlight that so far we are at homeostatic loop, but we do too have allostatic, wherein behavior can directly affect Ligands (eg alcohol consumption, Li+, etc). And remember.. we have McEwen in our cache (see preface)
 
 ---
 
