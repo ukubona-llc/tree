@@ -157,7 +157,8 @@ The key isn't even “Coen Brothers.” It's the separation of **scale from emer
 Scale supplies *possibility*. It does not supply *[form](https://www.nobelprize.org/uploads/2024/12/hassabis-lecture.pdf)*: a massive combinatorial search space.
 
 ```
-#stipulation-of-meaning #eintsein #demis-hassabis #ukubona-llc
+#stipulation-of-meaning: eintsein, demis-hassabis, ukubona-llc
+
 Engine / Unambiguosly Measured
 Objective / Concepts & Distinctions
 Search / Admissibility
