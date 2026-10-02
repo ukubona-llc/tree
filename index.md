@@ -2661,8 +2661,6 @@ And **II → III is the crucial jump**.
 
 12TET does not enumerate harmony. It gives you a **coordinate system**. Diatonic chords do not exhaust what can be done with those coordinates. Once you permit bass + triad/7th/9th/13th + alterations + inversions + omissions + voicings, the combinatorial space explodes.
 
-genui{"learning_viz":{"type_id":"COMBINATION_FORMULA","initial_values":{"n":8,"r":4}}}
-
 So your phrase
 
 > **DMT = Massive Combinatorials**
