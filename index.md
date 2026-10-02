@@ -2326,10 +2326,10 @@ V. Selective: as II. Sample-Size → ∞, a "Cambrian" explosion of emergent mec
 3. [Foxp2](https://ukubona-llc.github.io/foxp2/)
 4. [School](https://j-digital-twin.onrender.com/)
 5. [Ukubona](https://ukubona-llc.github.io/)
-6. [Trial-and-Error](https://ukubona-llc.github.io/trial-and-error/): source of the Preface
-7. [Mission](https://ukb-dt.github.io/nairobi/): linked in the Preface
-8. [Practice](https://ukubona-llc.github.io/trial/): linked in the Preface
-9. [Bezos](https://ukubona-llc.github.io/falsifiability/): linked in the Preface
-10. [Intelligence](https://ukubona-llc.github.io/kapital/): linked in the Preface
-11. [Bejan](https://ukubona-llc.github.io/bejan): constructal law artefact
-12. [Thy Kingdom Come](https://ukubona-llc.github.io/thy-kingdom-come/): Mato's HR app
+6. [Trial-and-Error](https://ukubona-llc.github.io/trial-and-error/) 
+7. [Mission](https://ukb-dt.github.io/nairobi/) 
+8. [Practice](https://ukubona-llc.github.io/trial/) 
+9. [Bezos](https://ukubona-llc.github.io/falsifiability/) 
+10. [Intelligence](https://ukubona-llc.github.io/kapital/) 
+11. [Bejan](https://ukubona-llc.github.io/bejan) 
+12. [Thy Kingdom Come](https://ukubona-llc.github.io/thy-kingdom-come/) 
