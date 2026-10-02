@@ -16,6 +16,13 @@
 <!-- Usage inline: $E = mc^2$ -->
 <!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
 
+# Root
+
+```
+Concepts and distinctions are admissible if they can be observed unambiguously (Einstein: concept, distinction, observation).
+Two added: falsifiability, and trial & error.
+Everything below is held to this. What fails it is metaphor until it passes.
+```
 
 # Preface
 
