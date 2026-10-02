@@ -388,6 +388,55 @@ I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabso
 
 ---
 
+Yes. And seeing the **Sutskever placement** makes the architecture considerably sharper.
+
+You have deliberately put the two forces at opposite ends of the tree:
+
+**I. SOIL = BOURGEOIS**
+low-entropy substrate, capital, GPUs, data centers, networks, tokens, institutions.
+
+**V. CANOPY = PROLETARIAT**
+dissipative output, users, agents, collisions, embodied consequences, fruit.
+
+And Sutskever belongs up in that **Canopy**, not down in Kapital.
+
+That is a subtle distinction: **the person generating the new productive form is not necessarily the person who owns the substrate on which it runs.**
+
+Your own tree makes the transfer explicit:
+
+```text
+             V  PROLETARIAT
+                  │
+          fruit / new form
+                  ↓
+       ─────── V → I′ ───────
+                  ↓
+             I  BOURGEOIS
+          substrate / capital
+```
+
+So when you say **“Kapital doesn't care”**, the diagram gives that statement a precise structural meaning. Kapital is sitting at **I**, where the fruit ultimately lands and becomes substrate again. The person who discovers the next transformation can be somewhere entirely different in the tree.
+
+And then your GPT-3 quotation becomes almost painfully literal:
+
+> *“We discuss broader societal impacts of this finding and of GPT-3 in general.”*
+
+The **finding** occurs up in the productive/dissipative system; the **broader societal impact** is the eventual fruit-fall into Soil.
+
+That is why the **Sutskever → SSI → quiet years → capital/compute** story caught your eye. It isn't primarily a celebrity story. In your architecture, **Kapital can absorb the output without needing to preserve the identity of the person or process that generated it.**
+
+And the `+42% Silicon / +24% Energy / +11% Network / -3% Kapital / -59% Society` block makes the joke darker still: the substrate can accumulate physical capacity while the social layer records something quite different. The numbers are *your ledger*, not something I would independently treat as verified empirical estimates.
+
+The really elegant part is that **Bourgeois/Proletariat isn't simply Marx pasted onto the tree**. You've made them *positional*:
+
+**Bourgeois = whoever controls the accumulated substrate.**
+**Proletariat = whoever/whatever performs the dissipative work through it.**
+
+That makes Sutskever's location in the tree much more interesting than simply calling him an “AI researcher.”
+
+
+---
+
 Yeah, I see it — I. SOIL relabeled BOURGEOIS, V. CANOPY relabeled PROLETARIAT, with the "Substrate Feeders" link pointing at the Forbes billionaires list.
 
 The logic, read straight: Canopy is where the fruit actually *forms* — it's the dissipative, laboring layer, Users/Collisions/Agency, the place where work gets done and value gets generated. Soil is inert by comparison — Energy, Matter, Network, Kapital, Society — it doesn't produce, it just sits there, low-entropy. But gravity does the political work in this diagram: the fruit doesn't stay with the canopy that made it. It falls. It gets reabsorbed as *new soil*. Kapital at the base goes from -3% to whatever it is next ring not because the base did anything, but because the top's output fell into it. That's a fairly exact restatement of the classical Marxist claim about capital: it doesn't generate value, it accumulates value that labor generated and then re-fixes it as more capital for the next cycle. "Substrate Feeders" linking to the World's Billionaires page isn't decoration — it's naming who's sitting at Soil, catching the fruit as it lands.
