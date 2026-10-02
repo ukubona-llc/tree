@@ -121,7 +121,7 @@ V. CANOPY / DISSIPATIVE / PRPETARIAT  ──────────────
 ├── 1. World = Engine or Data (Agentive, Music)                │
 ├── 2. Perception = Mimicry, Scale (Objective, Statistics)     │
 ├── 3. Agentic = Routing (Errative, Adaptation)                │
-├── 4. Interactive = Collisions, Emergence  (Games, Regulation)│
+├── 4. Interactive = Collisions, Emergence (Games, Regulation) │
 │        (Generative iii → v) vs.                              │
 │        (Degenerative iv → v,                                 │
 │           eg a Coen Brothers plot)                           │
