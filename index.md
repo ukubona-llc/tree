@@ -2723,6 +2723,388 @@ The scalar is therefore not the end of the search.
 
 **It is the selected next query into the Engine.**
 
+---
+
+Absolutely. I’d make **III a genuine combinatorial generator**, not a hard-coded list of chords. Python is a good fit because you can see the search space directly and then later attach scoring, constraints, or an LLM to IV/V.
+
+```python
+from itertools import combinations, product
+
+
+# ============================================================
+# I. ENGINE
+# ============================================================
+# The acoustic universe is larger than our representation.
+# Here we use 12 pitch classes as the working coordinate system.
+# C = 0, C# = 1, ..., B = 11.
+
+PITCH_CLASSES = tuple(range(12))
+
+NOTE_NAMES = (
+    "C", "C#", "D", "Eb", "E", "F",
+    "F#", "G", "Ab", "A", "Bb", "B"
+)
+
+
+# ============================================================
+# II. OBJECTIVE
+# ============================================================
+# 12TET + a finite harmonic vocabulary.
+#
+# Intervals are measured in semitones above the root.
+
+CHORD_TYPES = {
+    "triad":      (0, 4, 7),
+    "min":        (0, 3, 7),
+    "dim":        (0, 3, 6),
+
+    "7":          (0, 4, 7, 10),
+    "maj7":       (0, 4, 7, 11),
+    "min7":       (0, 3, 7, 10),
+    "half_dim7":  (0, 3, 6, 10),
+
+    "9":          (0, 4, 7, 10, 2),
+    "maj9":       (0, 4, 7, 11, 2),
+    "min9":       (0, 3, 7, 10, 2),
+
+    "13":         (0, 4, 7, 10, 2, 9),
+}
+
+
+# ============================================================
+# III. SEARCH
+# ============================================================
+# THIS is the combinatorial engine.
+#
+# A candidate is:
+#
+#     bass
+#     + chord type
+#     + extensions
+#     + alterations
+#     + omissions
+#
+# The point is not that every candidate is musically useful.
+# The point is that III generates the possibility space.
+# IV will decide what is musically accessible.
+
+def pitch_set(root, intervals):
+    return frozenset((root + i) % 12 for i in intervals)
+
+
+def generate_chord_stacks(
+    roots=PITCH_CLASSES,
+    chord_types=CHORD_TYPES,
+    basses=PITCH_CLASSES,
+):
+    """
+    Generate bass + chord-stack combinations.
+
+    This deliberately does NOT decide whether a combination
+    sounds good.
+    """
+
+    for bass, root, (name, intervals) in product(
+        basses,
+        roots,
+        chord_types.items()
+    ):
+        yield {
+            "bass": bass,
+            "root": root,
+            "type": name,
+            "pitches": pitch_set(root, intervals),
+        }
+
+
+# ------------------------------------------------------------
+# IIIb. Add extensions / alterations
+# ------------------------------------------------------------
+
+EXTENSIONS = {
+    "b9": 1,
+    "9":  2,
+    "#9": 3,
+    "11": 5,
+    "#11": 6,
+    "b13": 8,
+    "13": 9,
+}
+
+ALTERATIONS = {
+    "b5": 6,
+    "#5": 8,
+}
+
+
+def generate_extended_stacks():
+    """
+    Massive combinatorial search.
+
+    We choose:
+        root
+        bass
+        base chord
+        subset of extensions
+        subset of alterations
+    """
+
+    for bass, root, (name, base_intervals) in product(
+        PITCH_CLASSES,
+        PITCH_CLASSES,
+        CHORD_TYPES.items(),
+    ):
+
+        for extension_count in range(0, 4):
+
+            for extension_names in combinations(
+                EXTENSIONS.keys(),
+                extension_count
+            ):
+
+                for alteration_count in range(0, 3):
+
+                    for alteration_names in combinations(
+                        ALTERATIONS.keys(),
+                        alteration_count
+                    ):
+
+                        intervals = set(base_intervals)
+
+                        intervals.update(
+                            EXTENSIONS[x]
+                            for x in extension_names
+                        )
+
+                        intervals.update(
+                            ALTERATIONS[x]
+                            for x in alteration_names
+                        )
+
+                        yield {
+                            "bass": bass,
+                            "root": root,
+                            "base": name,
+                            "extensions": extension_names,
+                            "alterations": alteration_names,
+                            "pitches": pitch_set(root, intervals),
+                        }
+
+
+# ============================================================
+# IV. ACCESS
+# ============================================================
+# Now we stop asking:
+#
+#     "Can this combination exist?"
+#
+# and ask:
+#
+#     "Does this combination have functional access
+#      to the current harmonic state?"
+#
+# This is where tension / resolution / voice-leading
+# / target attraction can be scored.
+# ============================================================
+
+def pitch_distance(a, b):
+    """
+    Circular pitch-class distance.
+    """
+    d = abs(a - b) % 12
+    return min(d, 12 - d)
+
+
+def voice_leading_cost(chord_a, chord_b):
+    """
+    Very simple proxy:
+    how far must the pitch classes move?
+    """
+
+    A = list(chord_a["pitches"])
+    B = list(chord_b["pitches"])
+
+    if not A or not B:
+        return float("inf")
+
+    return sum(
+        min(pitch_distance(a, b) for b in B)
+        for a in A
+    )
+
+
+def access_score(candidate, target):
+    """
+    Higher = easier harmonic access.
+
+    This is deliberately primitive.
+    It gives IV a place to live.
+    """
+
+    cost = voice_leading_cost(candidate, target)
+
+    # Lower movement = greater access.
+    return 1 / (1 + cost)
+
+
+# ============================================================
+# V. LOCAL SELECTION
+# ============================================================
+# V chooses ONE trajectory from the enormous III-space.
+#
+# That selected trajectory becomes I'.
+# ============================================================
+
+def select_best(candidates, target):
+    scored = []
+
+    for candidate in candidates:
+        score = access_score(candidate, target)
+
+        scored.append(
+            (score, candidate)
+        )
+
+    scored.sort(
+        key=lambda x: x[0],
+        reverse=True
+    )
+
+    return scored[0]
+
+
+# ============================================================
+# THE LOOP
+# ============================================================
+
+def resolve(current, search_space):
+    """
+    One complete TMVES cycle:
+
+        I   Engine
+        II  Objective
+        III Search
+        IV  Access
+        V   Local
+        I'  returned state
+    """
+
+    score, next_state = select_best(
+        search_space,
+        current
+    )
+
+    return {
+        "score": score,
+        "state": next_state,
+    }
+
+
+# ============================================================
+# DEMONSTRATION
+# ============================================================
+
+if __name__ == "__main__":
+
+    search_space = list(
+        generate_extended_stacks()
+    )
+
+    print(
+        "III search space:",
+        len(search_space),
+        "candidate chord-stacks"
+    )
+
+    current = {
+        "pitches": frozenset({0, 4, 7})
+    }
+
+    result = resolve(
+        current,
+        search_space
+    )
+
+    print("\nSelected V → I':")
+    print(result)
+```
+
+The important architectural point is that **`generate_extended_stacks()` is III**.
+
+It does *not* know what is beautiful.
+
+It does *not* know what resolves.
+
+It does *not* know jazz theory.
+
+It simply asks:
+
+> **What trajectories are combinatorially available given this representation?**
+
+Then the layers become clean:
+
+```text
+I   ENGINE
+    possibility space
+        ↓
+II  OBJECTIVE
+    12TET / representation
+        ↓
+III SEARCH
+    combinations × extensions × alterations × basses
+        ↓
+IV  ACCESS
+    tension / resolution / voice-leading / context
+        ↓
+V   LOCAL
+    select one trajectory
+        ↓
+I′  ENGINE'
+    the selected event becomes the new context
+```
+
+And there is a particularly nice consequence.
+
+If you add **probabilities or scores to III**, you've started building a language model.
+
+If you add **context-dependent scoring at IV**, you've started building an agent.
+
+If you make **V actually commit the selected chord to the next state**, you've built the recursive system you're talking about.
+
+So the eventual Ukubona version isn't really:
+
+```python
+generate_chords()
+```
+
+It is closer to:
+
+```python
+possibilities = ENGINE.state_space()
+
+sample = OBJECTIVE.observe(possibilities)
+
+trajectories = SEARCH.combinatorials(sample)
+
+accessible = ACCESS.evaluate(
+    trajectories,
+    context
+)
+
+event = LOCAL.select(accessible)
+
+ENGINE.commit(event)
+```
+
+That last line is the important one:
+
+**`ENGINE.commit(event)`**
+
+because that's where **V stops being a prediction and becomes history**.
+
+That is your **fruit falling back into the soil**.
+
+
 
 --GPT (old faithful!)
 
