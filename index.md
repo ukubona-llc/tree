@@ -167,10 +167,10 @@ IV. BRANCHES (the -ean lenses) / OUTPUT      │   no longer a placeholder slot)
 │                                            │
 ├── 2. GRAYSIAN / PRIMITIVE / ANATOMY        │ Trial & Error of the Cambrian Explosion: Protozoan -> Metazoan Signaling (see Bezos: https://ukubona-llc.github.io/trial/)
 │   ├── i.   Latency                         │ Sensory-Motor / Thalamic | Milieu: Ligands, Neural Transmitters, Hormones
-│   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Membranes
+│   ├── ii.  Input-Fluency                   │ Basal Ganglia            | Membranes {Protozoan}
 │   ├── iii. Throughput-Fluency              │ Hippocampus (Cache)      | Secondary Messangers (Cytoplasm) & Genetics (Nucleoplasm)
-│   ├── iv.  Output-Fluency                  │ PFC                      | Epigenetics
-│   └── v.   Agency                          │ Motor-Cortex             | Proteins (Various Time Scales: Between & Within Person)
+│   ├── iv.  Output-Fluency                  │ PFC                      | Epigenetics & Cross-Talk {Metazoan}
+│   └── v.   Agency                          │ Motor-Cortex             | Proteins (Various Time Scales: Between & Within Person) {Bejan's Constructal Law V → I'}
 │                                            │
 ├── 3. NIETZSCHEAN                           │
 │   ├── i.   Wavelength-Periodicity          │
