@@ -2489,11 +2489,11 @@ And that fits the strongest thing already in your document: the Engine is first-
 
 This is where I think your formulation gets unusually tight.
 
-If the Engine contains an astronomically large possibility space, then:
+If the Engine contains an astronomically [large possibility space](https://ukubona-llc.github.io/all-repos/), then:
 
 **II does not merely observe reality. It selects a tiny projection of it.**
 
-Then III takes that finite observation and searches combinations/trajectories within it.
+Then III takes that finite observation and searches [combinations/trajectories](https://ukb-pyro.github.io/i-had-a-dream/) within it.
 
 But the combinatorial space can vastly exceed the observed sample.
 
