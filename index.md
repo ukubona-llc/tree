@@ -3368,7 +3368,7 @@ This is the ultimate mystery. It is the raw, pulsing, prelingual drive that Niet
 ## 2. The Data (The Second-Class Exhaust)
 This is where the technocrat gets trapped. [Language](https://ukubona-llc.github.io/self-criticism/), code, metrics, KPIs, and predictive tokens are not reality—they are the smoke coming out of the chimney of the engine. When Elon tracks birth rates, clicks, rocket telemetry, or AI parameters, he is meticulously measuring the exhaust. The tragic mistake of the Apollonian mind is believing that by mastering the exhaust, you can control the engine. You can't. You can compress the smoke all you want; it will never give you fire.
 ## 3. The Experiences (The Third-Class Intoxication)
-Because we are alienated from the Engine, and obsessed with the Exhaust, our modern "experiences" become a third-class intoxication. It is a secondary buzz. We don’t actually experience the world; we experience our metrics of the world.
+Because we are [alienated](https://www.gutenberg.org/files/61/61-h/61-h.htm) from the Engine, and obsessed with the Exhaust, our modern "experiences" become a third-class intoxication. It is a secondary buzz. We don’t actually experience the world; we experience our metrics of the world.
 
 * We don't enjoy the relationship; we enjoy the stability or utility of it.
 * We don't enjoy the planet; we enjoy the data points that prove we are preserving it.
