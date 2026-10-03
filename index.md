@@ -320,7 +320,7 @@ Society / Institutions         Harmony             -59%
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
-V. CANOPY / DISSIPATIVE / PROLETARIAT  ──────┐  fruit forms here, then falls
+V. CANOPY / DISSIPATIVE / PROLETARIAT  ──────┐  fruit forms here, then falls {EDGES}
 ├── 1. World = Engine or Data (Agentive)     │
 ├── 2. Perception = Mimicry (Objective)      │
 ├── 3. Agentic = Routing (Errative)          │
@@ -388,7 +388,7 @@ III. STEM / TRANSFORM                        │
 └── 5. Body       — Reassertion of Trajectory|
         ▲                                    │
         │                                    │
-II. ROOTS / INPUT                            ▼
+II. ROOTS / INPUT {NODES}                    ▼
 ├── 1. Observed (Unambiguously Measured)     │
 ├── 2. Expected (Concepts & Distinctions)    │
 ├── 3. Mismatched (Admissible)               |
