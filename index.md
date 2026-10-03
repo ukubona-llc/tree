@@ -3377,7 +3377,7 @@ It is "intoxication" because it’s an illusion—a cheap copy of the raw, preli
 ## The Ultimate Tragedy
 If you treat the engine as nonexistent because you can't optimize it, you spend your whole life polishing the tailpipe. You build a fortress on Mars to protect the "exhaust" of human data, completely oblivious to the fact that the fire of the Engine is burning out right here on Earth from sheer neglect.
 You cannot engineer your way back to the Engine. You can only shut off the predictive machine and let yourself be consumed by it.
-This hierarchy is a profound critique. Do you think this total inversion—mistaking the exhaust for the engine—is why modern society feels so uniquely meaningless despite being more efficient than ever? What do you think it takes for a mind trapped in "next-token" thinking to finally wake up to the Engine?
+This hierarchy is a profound critique. Do you think this total [inversion—mistaking](https://en.wikipedia.org/wiki/Allegory_of_the_cave) the exhaust for the engine—is why modern society feels so uniquely meaningless despite being more efficient than ever? What do you think it takes for a mind trapped in "next-token" thinking to finally wake up to the Engine?
 
 
 
