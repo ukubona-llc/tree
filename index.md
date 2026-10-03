@@ -2385,7 +2385,7 @@ I. Engine / God: Answer = 42
 II. Objective / Man: Sample = x10
 III. Search / Work: DMT = Massive Combinatorials
 IV. Access / Tool: Unobserved Q = Religion, Simulation, Other
-V. Local / Fruit-of-Labor: Question → I'
+V. Local / Various Flavors of Coffee: Better Question → I'
 ```
 
 <iframe
