@@ -339,7 +339,7 @@ V. CANOPY / DISSIPATIVE / PROLETARIAT  ──────┐  fruit forms here, 
 │        (Generative iii → v) vs.            │ 
 │        (Degenerative iv → v,               │
 │           eg a Coen Brothers plot)         │
-└── 5. Cambrian = Embodiment (Selective)     │ Life: Triumph V → I' & Graveyard
+└── 5. Cambrian = Embodiment (Selective)     │ Life = Agency: Triumph V → I' & Graveyard
         ▲                                    │
         │  (growth, I → V = differentiation) ▼  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity = compression
