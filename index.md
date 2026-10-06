@@ -316,19 +316,30 @@ Society / Institutions         Harmony             -59%
 
 ---
 
+<iframe
+   src="https://www.youtube.com/embed/lnLDjXy2kRA?start=900"
+   width="75%"
+   height="500"
+>
+</iframe>
+
+*[Self-Criticism](https://ukubona-llc.github.io/self-criticism/)*
+
+---
+
 ```
 PENTADIC FRACTAL TREE  (growth ↑, fruit-fall ↓)
 ════════════════════════════════════════════════
 
-V. CANOPY / DISSIPATIVE / PROLETARIAT  ──────┐  fruit forms here, then falls {EDGES}
-├── 1. World = Engine or Data (Agentive)     │
-├── 2. Perception = Mimicry (Objective)      │
-├── 3. Agentic = Routing (Errative)          │
-├── 4. Interactive = Collisions              │
-│        (Generative iii → v) vs.            │
+V. CANOPY / DISSIPATIVE / PROLETARIAT  ──────┐  fruit forms here, then falls {EDGES, MEANING}
+├── 1. World = Engine or Data (Agentive)     │ Experiential & Prelingual
+├── 2. Perception = Mimicry (Objective)      │ Science & Language
+├── 3. Agentic = Routing (Errative)          │ Routing
+├── 4. Interactive = Collisions              │ Art & Perspectivism
+│        (Generative iii → v) vs.            │ 
 │        (Degenerative iv → v,               │
 │           eg a Coen Brothers plot)         │
-└── 5. Cambrian = Embodiment (Selective)     │ Triumph V → I' & Graveyard
+└── 5. Cambrian = Embodiment (Selective)     │ Life: Triumph V → I' & Graveyard
         ▲                                    │
         │  (growth, I → V = differentiation) ▼  TRANSFER MECHANISMS NOW EXPLICIT
         │                                    │  (V → I′, falling by gravity = compression
