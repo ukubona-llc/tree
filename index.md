@@ -463,7 +463,7 @@ I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabso
 └── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World, -59%) {Newtonian Physics, Applications}
 ```
 
-> *We discuss broader societal impacts of this finding and of GPT-3 in general.*     
+> *We discuss broader [societal](https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-sends-welcome-note-to-mark-zuckerberg-says-excited-to-serve-our-googles-/articleshow/135699570.cms) impacts of this finding and of GPT-3 in general.*     
 > -- Tom B. Brown et al
 
 ---
