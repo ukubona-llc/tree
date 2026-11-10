@@ -458,8 +458,8 @@ II. ROOTS / INPUT {NODES}                    ▼
 I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabsorbed as soil (ROI, % as of 2026)
 ├── 1. Energy (eg Data Centers, 24%) {Thermodynamics, Power}
 ├── 2. Matter (eg GPUs, 42%) {Quantum Mechanics, Silicon}
-├── 3. Network / Cloud (eg AI, 11%) {Relativity Boundary, Communication}
-├── 4. Kapital (eg Tokens, -3%) {Statistical Physics, Software / AI or Algorithm / Compounding}
+├── 3. Network / Cloud (eg AI, 11%) {Relativity Boundary, Communication / Google Cloud's Model Garden}
+├── 4. Kapital (eg Tokens, -3%) {Statistical Physics, Software / AI or Algorithm / Compounding / Muse lineage Hosted}
 └── 5. Society / Institutions (eg Harmony: A New Way of Looking at Our World, -59%) {Newtonian Physics, Applications}
 ```
 
