@@ -474,6 +474,15 @@ I. SOIL (I′) / LOW-ENTROPY / BOURGREOIS  ◄───┘   fruit lands, reabso
 
 [GPT-3](https://arxiv.org/abs/2005.14165)
 
+[Back-of-Envelop](https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech)
+
+Nvidia's Margins:
+- 75% vs 55% for AMD. Treat this as Silicon
+- 11% for CUDA. Let this be Cloud
+- Unweighted average for Nvidia is (75 + 11)/2 = 43%
+- With Nvidia as 2/3 of the Silicon market we can see that the 42% perhaps describes Nvidia
+- I refer to the `2. Matter (eg GPUs, 42%) {Quantum Mechanics, Silicon}` in the codeblock
+
 ---
 
 Yes. And seeing the **Sutskever placement** makes the architecture considerably sharper.
